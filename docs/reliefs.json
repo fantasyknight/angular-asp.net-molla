@@ -1,0 +1,181 @@
+[{
+      "year": "2019",
+      "types": [{
+            "title": "Individual",
+            "Code": 9000
+         },
+         {
+            "title": "Husband-Wife",
+            "Code": 4000
+         },
+         {
+            "title": "Child",
+            "Code": 2000
+         },
+         {
+            "title": "Disabled-Individual",
+            "Code": 6000
+         },
+         {
+            "title": "Disabled-Husband-Wife",
+            "Code": 5000
+         }
+      ]
+   },
+   {
+      "year": "2020",
+      "types": [{
+            "title": "Individual",
+            "Code": 9000
+         },
+         {
+            "title": "Husband-Wife",
+            "Code": 4000
+         },
+         {
+            "title": "Child",
+            "Code": 2000
+         },
+         {
+            "title": "Disabled-Individual",
+            "Code": 6000
+         },
+         {
+            "title": "Disabled-Husband-Wife",
+            "Code": 9000
+         }
+      ]
+   },
+   {
+      "year": "2021",
+      "types": [{
+            "title": "Individual",
+            "Code": 9000
+         },
+         {
+            "title": "Husband-Wife",
+            "Code": 4000
+         },
+         {
+            "title": "Child",
+            "Code": 2000
+         },
+         {
+            "title": "Disabled-Individual",
+            "Code": 6000
+         },
+         {
+            "title": "Disabled-Husband-Wife",
+            "Code": 9000
+         }
+      ]
+   },
+   {
+      "year": "2022",
+      "types": [{
+            "title": "Individual",
+            "Code": 9000
+         },
+         {
+            "title": "Husband-Wife",
+            "Code": 4000
+         },
+         {
+            "title": "Child",
+            "Code": 2000
+         },
+         {
+            "title": "Disabled-Individual",
+            "Code": 6000
+         },
+         {
+            "title": "Disabled-Husband-Wife",
+            "Code": 9000
+         },
+         {
+            "title": "EPF",
+            "Code": 4000
+         },
+         {
+            "title": "SOCSO",
+            "Code": 350
+         },
+         {
+            "title": "EIS",
+            "Code": 350
+         }
+      ]
+   },
+   {
+      "year": "2023",
+      "types": [{
+            "title": "Individual",
+            "Code": 9000
+         },
+         {
+            "title": "Husband-Wife",
+            "Code": 4000
+         },
+         {
+            "title": "Child",
+            "Code": 2000
+         },
+         {
+            "title": "Disabled-Individual",
+            "Code": 6000
+         },
+         {
+            "title": "Disabled-Husband-Wife",
+            "Code": 9000
+         }
+      ]
+   },
+   {
+      "year": "2024",
+      "types": [{
+            "title": "Individual",
+            "Code": 9000
+         },
+         {
+            "title": "Husband-Wife",
+            "Code": 4000
+         },
+         {
+            "title": "Child",
+            "Code": 2000
+         },
+         {
+            "title": "Disabled-Individual",
+            "Code": 6000
+         },
+         {
+            "title": "Disabled-Husband-Wife",
+            "Code": 9000
+         }
+      ]
+   },
+   {
+      "year": "2025",
+      "types": [{
+            "title": "Individual",
+            "Code": 9000
+         },
+         {
+            "title": "Husband-Wife",
+            "Code": 4000
+         },
+         {
+            "title": "Child",
+            "Code": 2000
+         },
+         {
+            "title": "Disabled-Individual",
+            "Code": 6000
+         },
+         {
+            "title": "Disabled-Husband-Wife",
+            "Code": 9000
+         }
+      ]
+   }
+]

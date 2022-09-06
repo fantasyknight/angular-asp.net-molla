@@ -1,0 +1,34 @@
+[
+   {
+      "Bank": "CIMBBIZCHANNEL",
+      "format":"text",
+      "Employee": [
+         {
+            "Bank": "Affin Bank Berhad",
+            "Code": "32-Affin Bank Berhad"
+         },
+         {
+            "Bank": "Agro Bank Berhad",
+            "Code": "49-Agro Bank"
+         },
+         {
+            "Bank": "Alliance Bank Malaysia Berhad",
+            "Code": "MFBBMYKL"
+         }
+      ]
+   },
+   {
+      "Bank": "AFFINMAX",
+      "format":"csv",
+      "Employee": [
+         {
+            "Bank": "Agro Bank Berhad",
+            "Code": "AGOBMYKL"
+         },
+         {
+            "Bank": "Alliance Bank Malaysia Berhad",
+            "Code": "MFBBMYKL"
+         }
+      ]
+   }
+]
